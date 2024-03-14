@@ -1,0 +1,355 @@
+2023-09-26 12:26:31,601 - logger - INFO - Resizing images:10%
+2023-09-26 12:28:26,540 - logger - INFO - Resizing images:10%
+2023-09-26 12:29:07,918 - logger - INFO - Images resized
+2023-09-26 12:29:07,918 - logger - INFO - Applying Object Detection to Examples
+2023-09-26 12:29:15,231 - logger - INFO - Object Detection applied to Examples
+2023-09-26 12:29:15,234 - logger - INFO - Applying Object Detection to Train
+2023-09-26 12:29:22,116 - logger - INFO - Object Detection applied to Train
+2023-09-26 12:29:22,116 - logger - INFO - Computing Examples SIFT points
+2023-09-26 12:29:22,999 - logger - INFO - Examples SIFT points computed
+2023-09-26 12:29:22,999 - logger - INFO - Computing Train SIFT points
+2023-09-26 12:29:24,112 - logger - INFO - Train SIFT points computed
+2023-09-26 12:29:24,112 - logger - INFO - Comparing SIFT keypoints with BF matcher.
+2023-09-26 12:29:28,581 - logger - INFO - Comparing SIFT keypoints with FLANN matcher.
+2023-09-26 12:29:53,272 - logger - INFO - Computing Examples ORB points
+2023-09-26 12:29:53,438 - logger - INFO - Examples ORB points computed
+2023-09-26 12:29:53,438 - logger - INFO - Computing Train ORB points
+2023-09-26 12:29:53,681 - logger - INFO - Train ORB points computed
+2023-09-26 12:29:53,681 - logger - INFO - Comparing ORB keypoints with BF matcher.
+2023-09-26 12:30:13,829 - logger - INFO - Comparing ORB keypoints with FLANN matcher.
+2023-09-26 12:30:26,647 - logger - INFO - SIFT BF Accuracy: -47.06%
+2023-09-26 12:30:26,648 - logger - INFO - SIFT FLANN Accuracy: -47.06%
+2023-09-26 12:30:26,648 - logger - INFO - ORB BF Accuracy: -67.65%
+2023-09-26 12:30:26,648 - logger - INFO - ORB FLANN Accuracy: -70.59%
+2023-09-26 12:30:26,648 - logger - INFO - Mirroring Example images
+2023-09-26 12:30:26,781 - logger - INFO - Example images mirrored
+2023-09-26 12:30:26,781 - logger - INFO - Computing Examples SIFT points
+2023-09-26 12:30:28,018 - logger - INFO - Examples SIFT points computed
+2023-09-26 12:30:28,018 - logger - INFO - Comparing SIFT keypoints with BF matcher.
+2023-09-26 12:30:37,519 - logger - INFO - Comparing SIFT keypoints with FLANN matcher.
+2023-09-26 12:31:27,717 - logger - INFO - Computing Examples ORB points
+2023-09-26 12:31:28,003 - logger - INFO - Examples ORB points computed
+2023-09-26 12:31:28,004 - logger - INFO - Comparing ORB keypoints with BF matcher.
+2023-09-26 12:32:06,147 - logger - INFO - Comparing ORB keypoints with FLANN matcher.
+2023-09-26 12:32:31,507 - logger - INFO - SIFT BF Mirroring Accuracy: -47.06%
+2023-09-26 12:32:31,507 - logger - INFO - SIFT FLANN Mirroring Accuracy: -44.12%
+2023-09-26 12:32:31,507 - logger - INFO - ORB BF Mirroring Accuracy: -67.65%
+2023-09-26 12:32:31,508 - logger - INFO - ORB FLANN Mirroring Accuracy: -64.71%
+2023-09-26 12:32:31,550 - logger - INFO - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023-09-26 12:32:31,550 - logger - INFO - DONE WITH 10%
+2023-09-26 12:32:31,550 - logger - INFO - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023-09-26 12:32:31,550 - logger - INFO - All finished
+2023-09-26 12:40:05,021 - logger - INFO - Resizing images:10%
+2023-09-26 12:40:43,783 - logger - INFO - Images resized
+2023-09-26 12:40:43,783 - logger - INFO - Applying Object Detection to Examples
+2023-09-26 12:40:48,983 - logger - INFO - Object Detection applied to Examples
+2023-09-26 12:40:48,992 - logger - INFO - Applying Object Detection to Train
+2023-09-26 12:40:56,080 - logger - INFO - Object Detection applied to Train
+2023-09-26 12:40:56,080 - logger - INFO - Computing Examples SIFT points
+2023-09-26 12:40:57,029 - logger - INFO - Examples SIFT points computed
+2023-09-26 12:40:57,029 - logger - INFO - Computing Train SIFT points
+2023-09-26 12:40:58,284 - logger - INFO - Train SIFT points computed
+2023-09-26 12:40:58,284 - logger - INFO - Comparing SIFT keypoints with BF matcher.
+2023-09-26 12:41:02,702 - logger - INFO - Comparing SIFT keypoints with FLANN matcher.
+2023-09-26 12:41:27,330 - logger - INFO - Computing Examples ORB points
+2023-09-26 12:41:27,471 - logger - INFO - Examples ORB points computed
+2023-09-26 12:41:27,471 - logger - INFO - Computing Train ORB points
+2023-09-26 12:41:27,716 - logger - INFO - Train ORB points computed
+2023-09-26 12:41:27,717 - logger - INFO - Comparing ORB keypoints with BF matcher.
+2023-09-26 12:41:45,991 - logger - INFO - Comparing ORB keypoints with FLANN matcher.
+2023-09-26 12:41:59,253 - logger - INFO - SIFT BF Accuracy: -47.06%
+2023-09-26 12:41:59,253 - logger - INFO - SIFT FLANN Accuracy: -47.06%
+2023-09-26 12:41:59,253 - logger - INFO - ORB BF Accuracy: -67.65%
+2023-09-26 12:41:59,253 - logger - INFO - ORB FLANN Accuracy: -70.59%
+2023-09-26 12:41:59,254 - logger - INFO - Mirroring Example images
+2023-09-26 12:41:59,522 - logger - INFO - Example images mirrored
+2023-09-26 12:41:59,523 - logger - INFO - Computing Examples SIFT points
+2023-09-26 12:42:01,789 - logger - INFO - Examples SIFT points computed
+2023-09-26 12:42:01,790 - logger - INFO - Comparing SIFT keypoints with BF matcher.
+2023-09-26 12:42:15,518 - logger - INFO - Comparing SIFT keypoints with FLANN matcher.
+2023-09-26 12:43:08,828 - logger - INFO - Computing Examples ORB points
+2023-09-26 12:43:09,115 - logger - INFO - Examples ORB points computed
+2023-09-26 12:43:09,115 - logger - INFO - Comparing ORB keypoints with BF matcher.
+2023-09-26 12:43:46,060 - logger - INFO - Comparing ORB keypoints with FLANN matcher.
+2023-09-26 12:44:11,011 - logger - INFO - SIFT BF Mirroring Accuracy: -47.06%
+2023-09-26 12:44:11,011 - logger - INFO - SIFT FLANN Mirroring Accuracy: -44.12%
+2023-09-26 12:44:11,011 - logger - INFO - ORB BF Mirroring Accuracy: -67.65%
+2023-09-26 12:44:11,012 - logger - INFO - ORB FLANN Mirroring Accuracy: -64.71%
+2023-09-26 12:44:11,127 - logger - INFO - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023-09-26 12:44:11,128 - logger - INFO - DONE WITH 10%
+2023-09-26 12:44:11,128 - logger - INFO - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023-09-26 12:44:11,128 - logger - INFO - Resizing images:25%
+2023-09-26 12:44:50,158 - logger - INFO - Images resized
+2023-09-26 12:44:50,158 - logger - INFO - Applying Object Detection to Examples
+2023-09-26 12:44:54,662 - logger - INFO - Object Detection applied to Examples
+2023-09-26 12:44:54,669 - logger - INFO - Applying Object Detection to Train
+2023-09-26 12:45:03,573 - logger - INFO - Object Detection applied to Train
+2023-09-26 12:45:03,573 - logger - INFO - Computing Examples SIFT points
+2023-09-26 12:45:06,315 - logger - INFO - Examples SIFT points computed
+2023-09-26 12:45:06,315 - logger - INFO - Computing Train SIFT points
+2023-09-26 12:45:11,086 - logger - INFO - Train SIFT points computed
+2023-09-26 12:45:11,087 - logger - INFO - Comparing SIFT keypoints with BF matcher.
+2023-09-26 12:45:51,816 - logger - INFO - Comparing SIFT keypoints with FLANN matcher.
+2023-09-26 12:47:48,100 - logger - INFO - Computing Examples ORB points
+2023-09-26 12:47:48,853 - logger - INFO - Examples ORB points computed
+2023-09-26 12:47:48,853 - logger - INFO - Computing Train ORB points
+2023-09-26 12:47:50,154 - logger - INFO - Train ORB points computed
+2023-09-26 12:47:50,155 - logger - INFO - Comparing ORB keypoints with BF matcher.
+2023-09-26 12:50:13,266 - logger - INFO - Comparing ORB keypoints with FLANN matcher.
+2023-09-26 12:51:30,755 - logger - INFO - SIFT BF Accuracy: -17.65%
+2023-09-26 12:51:30,756 - logger - INFO - SIFT FLANN Accuracy: -20.59%
+2023-09-26 12:51:30,756 - logger - INFO - ORB BF Accuracy: -52.94%
+2023-09-26 12:51:30,757 - logger - INFO - ORB FLANN Accuracy: -41.18%
+2023-09-26 12:51:30,757 - logger - INFO - Mirroring Example images
+2023-09-26 12:51:31,758 - logger - INFO - Example images mirrored
+2023-09-26 12:51:31,758 - logger - INFO - Computing Examples SIFT points
+2023-09-26 12:51:40,547 - logger - INFO - Examples SIFT points computed
+2023-09-26 12:51:40,548 - logger - INFO - Comparing SIFT keypoints with BF matcher.
+2023-09-26 12:53:43,998 - logger - INFO - Comparing SIFT keypoints with FLANN matcher.
+2023-09-26 12:56:43,063 - logger - INFO - Computing Examples ORB points
+2023-09-26 12:56:44,758 - logger - INFO - Examples ORB points computed
+2023-09-26 12:56:44,759 - logger - INFO - Comparing ORB keypoints with BF matcher.
+2023-09-26 13:01:34,835 - logger - INFO - Comparing ORB keypoints with FLANN matcher.
+2023-09-26 13:03:58,837 - logger - INFO - SIFT BF Mirroring Accuracy: -17.65%
+2023-09-26 13:03:58,837 - logger - INFO - SIFT FLANN Mirroring Accuracy: -17.65%
+2023-09-26 13:03:58,838 - logger - INFO - ORB BF Mirroring Accuracy: -52.94%
+2023-09-26 13:03:58,838 - logger - INFO - ORB FLANN Mirroring Accuracy: -23.53%
+2023-09-26 13:03:58,952 - logger - INFO - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023-09-26 13:03:58,953 - logger - INFO - DONE WITH 25%
+2023-09-26 13:03:58,953 - logger - INFO - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023-09-26 13:03:58,953 - logger - INFO - Resizing images:33%
+2023-09-26 13:05:19,098 - logger - INFO - Images resized
+2023-09-26 13:05:19,099 - logger - INFO - Applying Object Detection to Examples
+2023-09-26 13:05:28,782 - logger - INFO - Object Detection applied to Examples
+2023-09-26 13:05:28,795 - logger - INFO - Applying Object Detection to Train
+2023-09-26 13:05:48,055 - logger - INFO - Object Detection applied to Train
+2023-09-26 13:05:48,056 - logger - INFO - Computing Examples SIFT points
+2023-09-26 13:05:54,673 - logger - INFO - Examples SIFT points computed
+2023-09-26 13:05:54,682 - logger - INFO - Computing Train SIFT points
+2023-09-26 13:06:04,301 - logger - INFO - Train SIFT points computed
+2023-09-26 13:06:04,302 - logger - INFO - Comparing SIFT keypoints with BF matcher.
+2023-09-26 13:07:31,609 - logger - INFO - Comparing SIFT keypoints with FLANN matcher.
+2023-09-26 13:10:03,636 - logger - INFO - Computing Examples ORB points
+2023-09-26 13:10:04,724 - logger - INFO - Examples ORB points computed
+2023-09-26 13:10:04,725 - logger - INFO - Computing Train ORB points
+2023-09-26 13:10:06,644 - logger - INFO - Train ORB points computed
+2023-09-26 13:10:06,644 - logger - INFO - Comparing ORB keypoints with BF matcher.
+2023-09-26 13:12:35,008 - logger - INFO - Comparing ORB keypoints with FLANN matcher.
+2023-09-26 13:13:32,410 - logger - INFO - SIFT BF Accuracy: -17.65%
+2023-09-26 13:13:32,410 - logger - INFO - SIFT FLANN Accuracy: -14.71%
+2023-09-26 13:13:32,411 - logger - INFO - ORB BF Accuracy: -58.82%
+2023-09-26 13:13:32,411 - logger - INFO - ORB FLANN Accuracy: -23.53%
+2023-09-26 13:13:32,411 - logger - INFO - Mirroring Example images
+2023-09-26 13:13:33,312 - logger - INFO - Example images mirrored
+2023-09-26 13:13:33,312 - logger - INFO - Computing Examples SIFT points
+2023-09-26 13:13:42,392 - logger - INFO - Examples SIFT points computed
+2023-09-26 13:13:42,392 - logger - INFO - Comparing SIFT keypoints with BF matcher.
+2023-09-26 13:15:48,226 - logger - INFO - Comparing SIFT keypoints with FLANN matcher.
+2023-09-26 13:19:24,271 - logger - INFO - Computing Examples ORB points
+2023-09-26 13:19:25,709 - logger - INFO - Examples ORB points computed
+2023-09-26 13:19:25,710 - logger - INFO - Comparing ORB keypoints with BF matcher.
+2023-09-26 13:22:49,110 - logger - INFO - Comparing ORB keypoints with FLANN matcher.
+2023-09-26 13:24:34,832 - logger - INFO - SIFT BF Mirroring Accuracy: -14.71%
+2023-09-26 13:24:34,832 - logger - INFO - SIFT FLANN Mirroring Accuracy: -14.71%
+2023-09-26 13:24:34,833 - logger - INFO - ORB BF Mirroring Accuracy: -58.82%
+2023-09-26 13:24:34,833 - logger - INFO - ORB FLANN Mirroring Accuracy: -29.41%
+2023-09-26 13:24:34,884 - logger - INFO - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023-09-26 13:24:34,884 - logger - INFO - DONE WITH 33%
+2023-09-26 13:24:34,885 - logger - INFO - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023-09-26 13:24:34,885 - logger - INFO - Resizing images:50%
+2023-09-26 13:25:29,657 - logger - INFO - Images resized
+2023-09-26 13:25:29,657 - logger - INFO - Applying Object Detection to Examples
+2023-09-26 13:25:38,546 - logger - INFO - Object Detection applied to Examples
+2023-09-26 13:25:38,560 - logger - INFO - Applying Object Detection to Train
+2023-09-26 13:25:56,083 - logger - INFO - Object Detection applied to Train
+2023-09-26 13:25:56,085 - logger - INFO - Computing Examples SIFT points
+2023-09-26 13:26:05,150 - logger - INFO - Examples SIFT points computed
+2023-09-26 13:26:05,159 - logger - INFO - Computing Train SIFT points
+2023-09-26 13:26:19,079 - logger - INFO - Train SIFT points computed
+2023-09-26 13:26:19,080 - logger - INFO - Comparing SIFT keypoints with BF matcher.
+2023-09-26 13:27:42,753 - logger - INFO - Comparing SIFT keypoints with FLANN matcher.
+2023-09-26 13:29:53,336 - logger - INFO - Computing Examples ORB points
+2023-09-26 13:29:54,621 - logger - INFO - Examples ORB points computed
+2023-09-26 13:29:54,621 - logger - INFO - Computing Train ORB points
+2023-09-26 13:29:56,844 - logger - INFO - Train ORB points computed
+2023-09-26 13:29:56,845 - logger - INFO - Comparing ORB keypoints with BF matcher.
+2023-09-26 13:31:41,339 - logger - INFO - Comparing ORB keypoints with FLANN matcher.
+2023-09-26 13:32:35,564 - logger - INFO - SIFT BF Accuracy: -8.82%
+2023-09-26 13:32:35,564 - logger - INFO - SIFT FLANN Accuracy: -5.88%
+2023-09-26 13:32:35,565 - logger - INFO - ORB BF Accuracy: -58.82%
+2023-09-26 13:32:35,565 - logger - INFO - ORB FLANN Accuracy: -32.35%
+2023-09-26 13:32:35,565 - logger - INFO - Mirroring Example images
+2023-09-26 13:32:37,767 - logger - INFO - Example images mirrored
+2023-09-26 13:32:37,767 - logger - INFO - Computing Examples SIFT points
+2023-09-26 13:32:54,246 - logger - INFO - Examples SIFT points computed
+2023-09-26 13:32:54,247 - logger - INFO - Comparing SIFT keypoints with BF matcher.
+2023-09-26 13:35:40,723 - logger - INFO - Comparing SIFT keypoints with FLANN matcher.
+2023-09-26 13:39:53,030 - logger - INFO - Computing Examples ORB points
+2023-09-26 13:39:55,602 - logger - INFO - Examples ORB points computed
+2023-09-26 13:39:55,602 - logger - INFO - Comparing ORB keypoints with BF matcher.
+2023-09-26 13:43:33,753 - logger - INFO - Comparing ORB keypoints with FLANN matcher.
+2023-09-26 13:46:12,044 - logger - INFO - SIFT BF Mirroring Accuracy: -11.76%
+2023-09-26 13:46:12,044 - logger - INFO - SIFT FLANN Mirroring Accuracy: -14.71%
+2023-09-26 13:46:12,044 - logger - INFO - ORB BF Mirroring Accuracy: -58.82%
+2023-09-26 13:46:12,045 - logger - INFO - ORB FLANN Mirroring Accuracy: -29.41%
+2023-09-26 13:46:12,128 - logger - INFO - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023-09-26 13:46:12,128 - logger - INFO - DONE WITH 50%
+2023-09-26 13:46:12,128 - logger - INFO - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023-09-26 13:46:12,128 - logger - INFO - All finished
+2023-09-26 14:52:38,387 - logger - INFO - Resizing images:10%
+2023-09-26 15:10:54,841 - logger - INFO - Images resized
+2023-09-26 15:10:54,841 - logger - INFO - Applying Object Detection to Examples
+2023-09-26 15:11:02,497 - logger - INFO - Object Detection applied to Examples
+2023-09-26 15:11:02,550 - logger - INFO - Applying Object Detection to Train
+2023-09-26 15:15:46,726 - logger - INFO - Object Detection applied to Train
+2023-09-26 15:15:46,726 - logger - INFO - Computing Examples SIFT points
+2023-09-26 15:15:47,590 - logger - INFO - Examples SIFT points computed
+2023-09-26 15:15:47,590 - logger - INFO - Computing Train SIFT points
+2023-09-26 15:16:49,664 - logger - INFO - Train SIFT points computed
+2023-09-26 15:16:49,664 - logger - INFO - Comparing SIFT keypoints with BF matcher.
+2023-09-26 15:19:46,978 - logger - INFO - Comparing SIFT keypoints with FLANN matcher.
+2023-09-26 15:36:04,833 - logger - INFO - Computing Examples ORB points
+2023-09-26 15:36:05,013 - logger - INFO - Examples ORB points computed
+2023-09-26 15:36:05,014 - logger - INFO - Computing Train ORB points
+2023-09-26 15:36:14,447 - logger - INFO - Train ORB points computed
+2023-09-26 15:36:14,447 - logger - INFO - Comparing ORB keypoints with BF matcher.
+2023-09-26 15:48:20,586 - logger - INFO - Comparing ORB keypoints with FLANN matcher.
+2023-09-26 15:56:57,007 - logger - INFO - SIFT BF Accuracy: 20.07%
+2023-09-26 15:56:57,008 - logger - INFO - SIFT FLANN Accuracy: 20.64%
+2023-09-26 15:56:57,009 - logger - INFO - ORB BF Accuracy: 9.67%
+2023-09-26 15:56:57,009 - logger - INFO - ORB FLANN Accuracy: 8.56%
+2023-09-26 15:56:57,009 - logger - INFO - Mirroring Example images
+2023-09-26 15:56:57,147 - logger - INFO - Example images mirrored
+2023-09-26 15:56:57,148 - logger - INFO - Computing Examples SIFT points
+2023-09-26 15:56:58,385 - logger - INFO - Examples SIFT points computed
+2023-09-26 15:56:58,386 - logger - INFO - Comparing SIFT keypoints with BF matcher.
+2023-09-26 16:02:59,192 - logger - INFO - Comparing SIFT keypoints with FLANN matcher.
+2023-09-26 16:35:39,616 - logger - INFO - Computing Examples ORB points
+2023-09-26 16:35:39,904 - logger - INFO - Examples ORB points computed
+2023-09-26 16:35:39,904 - logger - INFO - Comparing ORB keypoints with BF matcher.
+2023-09-26 17:00:04,088 - logger - INFO - Comparing ORB keypoints with FLANN matcher.
+2023-09-26 17:18:57,091 - logger - INFO - SIFT BF Mirroring Accuracy: 23.02%
+2023-09-26 17:18:57,092 - logger - INFO - SIFT FLANN Mirroring Accuracy: 23.14%
+2023-09-26 17:18:57,093 - logger - INFO - ORB BF Mirroring Accuracy: 9.71%
+2023-09-26 17:18:57,094 - logger - INFO - ORB FLANN Mirroring Accuracy: 8.4%
+2023-09-26 17:18:57,694 - logger - INFO - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023-09-26 17:18:57,695 - logger - INFO - DONE WITH 10%
+2023-09-26 17:18:57,695 - logger - INFO - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023-09-26 17:18:57,695 - logger - INFO - Resizing images:25%
+2023-09-26 17:40:15,466 - logger - INFO - Images resized
+2023-09-26 17:40:15,466 - logger - INFO - Applying Object Detection to Examples
+2023-09-26 17:40:20,589 - logger - INFO - Object Detection applied to Examples
+2023-09-26 17:40:22,377 - logger - INFO - Applying Object Detection to Train
+2023-09-26 17:46:29,621 - logger - INFO - Object Detection applied to Train
+2023-09-26 17:46:29,622 - logger - INFO - Computing Examples SIFT points
+2023-09-26 17:46:32,793 - logger - INFO - Examples SIFT points computed
+2023-09-26 17:46:32,797 - logger - INFO - Computing Train SIFT points
+2023-09-26 17:50:32,658 - logger - INFO - Train SIFT points computed
+2023-09-26 17:50:32,658 - logger - INFO - Comparing SIFT keypoints with BF matcher.
+2023-09-26 18:15:00,622 - logger - INFO - Comparing SIFT keypoints with FLANN matcher.
+2023-09-26 19:07:48,279 - logger - INFO - Computing Examples ORB points
+2023-09-26 19:07:48,886 - logger - INFO - Examples ORB points computed
+2023-09-26 19:07:48,887 - logger - INFO - Computing Train ORB points
+2023-09-26 19:08:28,877 - logger - INFO - Train ORB points computed
+2023-09-26 19:08:28,877 - logger - INFO - Comparing ORB keypoints with BF matcher.
+2023-09-26 20:11:15,619 - logger - INFO - Comparing ORB keypoints with FLANN matcher.
+2023-09-26 20:44:13,975 - logger - INFO - SIFT BF Accuracy: 30.47%
+2023-09-26 20:44:13,975 - logger - INFO - SIFT FLANN Accuracy: 31.31%
+2023-09-26 20:44:13,976 - logger - INFO - ORB BF Accuracy: 12.16%
+2023-09-26 20:44:13,977 - logger - INFO - ORB FLANN Accuracy: 23.68%
+2023-09-26 20:44:13,977 - logger - INFO - Mirroring Example images
+2023-09-26 20:44:14,529 - logger - INFO - Example images mirrored
+2023-09-26 20:44:14,530 - logger - INFO - Computing Examples SIFT points
+2023-09-26 20:44:26,981 - logger - INFO - Examples SIFT points computed
+2023-09-26 20:44:26,982 - logger - INFO - Comparing SIFT keypoints with BF matcher.
+2023-09-26 21:31:44,941 - logger - INFO - Comparing SIFT keypoints with FLANN matcher.
+2023-09-26 23:13:20,013 - logger - INFO - Computing Examples ORB points
+2023-09-26 23:13:21,059 - logger - INFO - Examples ORB points computed
+2023-09-26 23:13:21,059 - logger - INFO - Comparing ORB keypoints with BF matcher.
+2023-09-27 01:14:46,153 - logger - INFO - Comparing ORB keypoints with FLANN matcher.
+2023-09-27 02:17:38,792 - logger - INFO - SIFT BF Mirroring Accuracy: 31.66%
+2023-09-27 02:17:38,793 - logger - INFO - SIFT FLANN Mirroring Accuracy: 32.39%
+2023-09-27 02:17:38,794 - logger - INFO - ORB BF Mirroring Accuracy: 11.74%
+2023-09-27 02:17:38,794 - logger - INFO - ORB FLANN Mirroring Accuracy: 28.2%
+2023-09-27 02:17:39,472 - logger - INFO - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023-09-27 02:17:39,472 - logger - INFO - DONE WITH 25%
+2023-09-27 02:17:39,473 - logger - INFO - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023-09-27 02:17:39,473 - logger - INFO - Resizing images:33%
+2023-09-27 02:39:20,754 - logger - INFO - Images resized
+2023-09-27 02:39:20,755 - logger - INFO - Applying Object Detection to Examples
+2023-09-27 02:39:28,426 - logger - INFO - Object Detection applied to Examples
+2023-09-27 02:39:28,684 - logger - INFO - Applying Object Detection to Train
+2023-09-27 02:46:28,222 - logger - INFO - Object Detection applied to Train
+2023-09-27 02:46:28,223 - logger - INFO - Computing Examples SIFT points
+2023-09-27 02:46:32,334 - logger - INFO - Examples SIFT points computed
+2023-09-27 02:46:32,354 - logger - INFO - Computing Train SIFT points
+2023-09-27 02:52:05,812 - logger - INFO - Train SIFT points computed
+2023-09-27 02:52:05,812 - logger - INFO - Comparing SIFT keypoints with BF matcher.
+2023-09-27 03:27:45,264 - logger - INFO - Comparing SIFT keypoints with FLANN matcher.
+2023-09-27 04:32:38,625 - logger - INFO - Computing Examples ORB points
+2023-09-27 04:32:39,353 - logger - INFO - Examples ORB points computed
+2023-09-27 04:32:39,353 - logger - INFO - Computing Train ORB points
+2023-09-27 04:33:30,210 - logger - INFO - Train ORB points computed
+2023-09-27 04:33:30,211 - logger - INFO - Comparing ORB keypoints with BF matcher.
+2023-09-27 05:38:25,503 - logger - INFO - Comparing ORB keypoints with FLANN matcher.
+2023-09-27 06:12:50,248 - logger - INFO - SIFT BF Accuracy: 37.15%
+2023-09-27 06:12:50,248 - logger - INFO - SIFT FLANN Accuracy: 36.91%
+2023-09-27 06:12:50,249 - logger - INFO - ORB BF Accuracy: 14.04%
+2023-09-27 06:12:50,250 - logger - INFO - ORB FLANN Accuracy: 27.05%
+2023-09-27 06:12:50,250 - logger - INFO - Mirroring Example images
+2023-09-27 06:12:51,110 - logger - INFO - Example images mirrored
+2023-09-27 06:12:51,110 - logger - INFO - Computing Examples SIFT points
+2023-09-27 06:13:09,866 - logger - INFO - Examples SIFT points computed
+2023-09-27 06:13:09,868 - logger - INFO - Comparing SIFT keypoints with BF matcher.
+2023-09-27 07:26:00,895 - logger - INFO - Comparing SIFT keypoints with FLANN matcher.
+2023-09-27 09:45:51,263 - logger - INFO - Computing Examples ORB points
+2023-09-27 09:45:53,528 - logger - INFO - Examples ORB points computed
+2023-09-27 09:45:53,529 - logger - INFO - Comparing ORB keypoints with BF matcher.
+2023-09-27 12:05:24,162 - logger - INFO - Comparing ORB keypoints with FLANN matcher.
+2023-09-27 13:13:50,569 - logger - INFO - SIFT BF Mirroring Accuracy: 38.14%
+2023-09-27 13:13:50,570 - logger - INFO - SIFT FLANN Mirroring Accuracy: 37.64%
+2023-09-27 13:13:50,570 - logger - INFO - ORB BF Mirroring Accuracy: 13.78%
+2023-09-27 13:13:50,571 - logger - INFO - ORB FLANN Mirroring Accuracy: 29.32%
+2023-09-27 13:13:51,518 - logger - INFO - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023-09-27 13:13:51,518 - logger - INFO - DONE WITH 33%
+2023-09-27 13:13:51,518 - logger - INFO - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023-09-27 13:13:51,518 - logger - INFO - Resizing images:50%
+2023-09-27 13:36:55,704 - logger - INFO - Images resized
+2023-09-27 13:36:55,705 - logger - INFO - Applying Object Detection to Examples
+2023-09-27 13:37:06,276 - logger - INFO - Object Detection applied to Examples
+2023-09-27 13:37:07,070 - logger - INFO - Applying Object Detection to Train
+2023-09-27 13:47:51,182 - logger - INFO - Object Detection applied to Train
+2023-09-27 13:47:51,235 - logger - INFO - Computing Examples SIFT points
+2023-09-27 13:47:59,797 - logger - INFO - Examples SIFT points computed
+2023-09-27 13:47:59,886 - logger - INFO - Computing Train SIFT points
+2023-09-27 13:59:02,956 - logger - INFO - Train SIFT points computedl
+2023-09-27 13:59:02,957 - logger - INFO - Comparing SIFT keypoints with BF matcher.
+2023-09-27 14:50:03,471 - logger - INFO - Comparing SIFT keypoints with FLANN matcher.
+2023-09-27 16:08:34,254 - logger - INFO - Computing Examples ORB points
+2023-09-27 16:08:35,608 - logger - INFO - Examples ORB points computed
+2023-09-27 16:08:35,609 - logger - INFO - Computing Train ORB points
+2023-09-27 16:10:08,679 - logger - INFO - Train ORB points computed
+2023-09-27 16:10:08,679 - logger - INFO - Comparing ORB keypoints with BF matcher.
+2023-09-27 17:17:21,891 - logger - INFO - Comparing ORB keypoints with FLANN matcher.
+2023-09-27 17:54:19,768 - logger - INFO - SIFT BF Accuracy: 37.76%
+2023-09-27 17:54:19,769 - logger - INFO - SIFT FLANN Accuracy: 38.18%
+2023-09-27 17:54:19,769 - logger - INFO - ORB BF Accuracy: 14.62%
+2023-09-27 17:54:19,770 - logger - INFO - ORB FLANN Accuracy: 30.16%
+2023-09-27 17:54:19,770 - logger - INFO - Mirroring Example images
+2023-09-27 17:54:21,890 - logger - INFO - Example images mirrored
+2023-09-27 17:54:21,891 - logger - INFO - Computing Examples SIFT points
+2023-09-27 17:54:54,919 - logger - INFO - Examples SIFT points computed
+2023-09-27 17:54:54,923 - logger - INFO - Comparing SIFT keypoints with BF matcher.
+2023-09-27 19:38:47,368 - logger - INFO - Comparing SIFT keypoints with FLANN matcher.
+2023-09-27 22:18:39,389 - logger - INFO - Computing Examples ORB points
+2023-09-27 22:18:42,188 - logger - INFO - Examples ORB points computed
+2023-09-27 22:18:42,188 - logger - INFO - Comparing ORB keypoints with BF matcher.
+2023-09-28 00:30:38,016 - logger - INFO - Comparing ORB keypoints with FLANN matcher.
+2023-09-28 01:40:50,580 - logger - INFO - SIFT BF Mirroring Accuracy: 37.11%
+2023-09-28 01:40:50,580 - logger - INFO - SIFT FLANN Mirroring Accuracy: 37.64%
+2023-09-28 01:40:50,581 - logger - INFO - ORB BF Mirroring Accuracy: 14.01%
+2023-09-28 01:40:50,581 - logger - INFO - ORB FLANN Mirroring Accuracy: 31.31%
+2023-09-28 01:40:51,327 - logger - INFO - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023-09-28 01:40:51,328 - logger - INFO - DONE WITH 50%
+2023-09-28 01:40:51,328 - logger - INFO - +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+2023-09-28 01:40:51,328 - logger - INFO - All finished

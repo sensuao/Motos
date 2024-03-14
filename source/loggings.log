@@ -1,0 +1,44 @@
+2023-05-20 10:44:45,106 - logger - INFO - Applying Image Segmentation to Train
+2023-05-20 10:46:25,231 - logger - INFO - Image Segmentation applied to Train
+2023-05-20 10:46:25,231 - logger - INFO - Applying Image Segmentation to Examples
+2023-05-20 10:46:26,795 - logger - INFO - Image Segmentation applied to Examples
+2023-05-20 10:46:26,795 - logger - INFO - Computing histograms of well illuminated pixels to Train
+2023-05-20 10:46:38,669 - logger - INFO - Histograms of well illuminated pixels computed for Train
+2023-05-20 10:46:38,669 - logger - INFO - Computing histograms of well illuminated pixels to Examples
+2023-05-20 10:46:38,838 - logger - INFO - Histograms of well illuminated pixels computed for Examples
+2023-05-20 10:46:38,859 - logger - INFO - Predicting folder with KNN model
+2023-05-20 10:46:38,872 - logger - INFO - Folder predicted with KNN model
+2023-05-20 10:46:39,196 - logger - INFO - All finished
+2023-05-20 13:42:01,142 - logger - INFO - Applying Image Segmentation to Train
+2023-05-20 13:43:47,200 - logger - INFO - Image Segmentation applied to Train
+2023-05-20 13:43:47,200 - logger - INFO - Applying Image Segmentation to Examples
+2023-05-20 13:43:48,841 - logger - INFO - Image Segmentation applied to Examples
+2023-05-20 13:43:48,841 - logger - INFO - Computing histograms of well illuminated pixels to Train
+2023-05-20 13:43:59,036 - logger - INFO - Histograms of well illuminated pixels computed for Train
+2023-05-20 13:43:59,036 - logger - INFO - Computing histograms of well illuminated pixels to Examples
+2023-05-20 13:43:59,192 - logger - INFO - Histograms of well illuminated pixels computed for Examples
+2023-05-20 13:43:59,192 - logger - INFO - Predicting folder with KNN model
+2023-05-20 13:43:59,208 - logger - INFO - Folder predicted with KNN model
+2023-05-20 13:43:59,646 - logger - INFO - All finished
+2023-05-20 16:42:19,365 - logger - INFO - Applying Image Segmentation to Train
+2023-05-20 16:43:55,770 - logger - INFO - Image Segmentation applied to Train
+2023-05-20 16:43:55,770 - logger - INFO - Applying Image Segmentation to Examples
+2023-05-20 16:43:58,147 - logger - INFO - Image Segmentation applied to Examples
+2023-05-20 16:43:58,148 - logger - INFO - Computing histograms of well illuminated pixels to Train
+2023-05-20 16:44:10,021 - logger - INFO - Histograms of well illuminated pixels computed for Train
+2023-05-20 16:44:10,021 - logger - INFO - Computing histograms of well illuminated pixels to Examples
+2023-05-20 16:44:10,186 - logger - INFO - Histograms of well illuminated pixels computed for Examples
+2023-05-20 16:44:10,186 - logger - INFO - Predicting folder with KNN model
+2023-05-20 16:44:10,202 - logger - INFO - Folder predicted with KNN model
+2023-05-20 16:44:10,636 - logger - INFO - All finished
+2023-05-25 10:21:00,728 - logger - INFO - Applying Image Segmentation to Train
+2023-05-25 10:23:25,933 - logger - INFO - Image Segmentation applied to Train
+2023-05-25 10:23:25,934 - logger - INFO - Applying Image Segmentation to Examples
+2023-05-25 10:23:28,432 - logger - INFO - Image Segmentation applied to Examples
+2023-05-25 10:23:28,432 - logger - INFO - Computing histograms of well illuminated pixels to Train
+2023-05-25 10:23:46,351 - logger - INFO - Histograms of well illuminated pixels computed for Train
+2023-05-25 10:23:46,352 - logger - INFO - Computing histograms of well illuminated pixels to Examples
+2023-05-25 10:23:46,610 - logger - INFO - Histograms of well illuminated pixels computed for Examples
+2023-05-25 10:23:46,935 - logger - INFO - Predicting folder with KNN model
+2023-05-25 10:23:46,959 - logger - INFO - Folder predicted with KNN model
+2023-05-25 10:23:47,543 - logger - INFO - All finished

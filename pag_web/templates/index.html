@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Mi página web</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Mi página web</h1>
+    <form action="{{ url_for('upload') }}" method="get">
+        <button type="submit">Subir archivo</button>
+    </form>
+    <form action="{{ url_for('start') }}" method="post">
+        <button type="submit">Ejecutar contenedor</button>
+    </form>
+</body>
+</html>
